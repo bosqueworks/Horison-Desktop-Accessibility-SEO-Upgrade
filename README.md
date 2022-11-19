@@ -2,14 +2,14 @@
 
 ## Improved accessibility for disabled users as well as SEO improvements
 
-Allowing more users to find and interact with this website is the core reason 
-behind this upgrade.
+The function of this project is to improve accessibility to the website.
+Search engine optimization is improved as well.
 
 ## Table of Contents
--[Installation]
--[Usage]
--[Credits]
--[License]
+[Installation]
+[Usage]
+[Credits]
+[License]
 
 ## Installation
 
