@@ -6,10 +6,10 @@ The function of this project is to improve accessibility to the website.
 Search engine optimization is improved as well.
 
 ## Table of Contents
-[Installation]
-[Usage]
-[Credits]
-[License]
+Installation
+Usage
+Credits
+License
 
 ## Installation
 
@@ -64,7 +64,7 @@ HeadOffice@Horiseon.com
 
 ## License
 
-This workd is 'UnLicensed' meaning default copyright 
+This work is 'UnLicensed' meaning default copyright 
 laws apply. This work cannot be;
 
 Reproduced
