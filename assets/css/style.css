@@ -54,8 +54,11 @@ p {
     background-size: cover;
     background-position: center;
 }
-
-.float-left {
+/* The following three styles don't seem to be called anywhere in the index.html
+file and therefore could be deleted to compact the code further.
+However, the client may find it useful in future projects and so I have
+left it included. */
+.float-left {          
     float: left;
     margin-right: 25px;
 }
@@ -81,7 +84,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*consolidated source code by using one class for all articles on the page */
+/*consolidated source code by using one class for all benefit articles on the page */
 .benefitArticles {
     margin-bottom: 32px;
     color: #ffffff;
