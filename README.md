@@ -22,7 +22,7 @@ available after the launch date of this application)
 Users that are completely blind will need specialized 
 hardware and software to engage with this project.
 
-The following software can also be installed for 
+The following software may also be helpful for 
 blind users;
 https://www.nvaccess.org/download/
 
